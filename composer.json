@@ -1,6 +1,6 @@
 {
-    "name": "league/pipeline",
-    "description": "A plug and play pipeline implementation.",
+    "name": "theiconic/pipeline",
+    "description": "A plug and play pipeline implementation. Forked for PHP version stability.",
     "keywords": [
         "pipeline", "pattern", "sequential", "composition", "design pattern"
     ],
