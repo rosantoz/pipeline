@@ -11,6 +11,11 @@
             "email": "info@frenky.net"
         }
     ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.2.3-dev"
+        }
+    },
     "autoload": {
         "psr-4": {
             "League\\Pipeline\\": "src"
